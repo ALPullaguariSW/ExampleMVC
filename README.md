@@ -7,14 +7,13 @@ Este proyecto web utiliza los conceptos de Programación Orientada a Objetos (PO
 Para esta tarea, se creó una clase en JavaScript relacionada con la gestión de artículos en el carrito de compras. La clase Articulo se encarga de representar cada artículo con propiedades como nombre y precio, y métodos para realizar operaciones relacionadas con los artículos, como agregar y eliminar.
 
 ```javascript
-Copy code
 class Articulo {
-constructor(nombre, precio) {
-this.nombre = nombre;
-this.precio = precio;
-}
+  constructor(nombre, precio) {
+    this.nombre = nombre;
+    this.precio = precio;
+  }
 
-// Otros métodos relacionados con la gestión de artículos...
+  // Otros métodos relacionados con la gestión de artículos...
 }
 ```
 
